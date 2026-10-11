@@ -1,0 +1,10 @@
+{
+  "appId": "com.sales.dashboard",
+  "appName": "Sales Dashboard",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#F3F5F8" },
+  "plugins": {
+    "StatusBar": { "style": "LIGHT", "backgroundColor": "#F3F5F8", "overlaysWebView": false }
+  }
+}
